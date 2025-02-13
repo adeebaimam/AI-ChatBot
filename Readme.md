@@ -16,7 +16,7 @@ This is an **AI-powered chatbot** using **Flask (backend) and Streamlit (fronten
 
 ## 📌 Tech Stack
 - **Frontend**: Streamlit, Streamlit-Lottie  
-- **Backend**: Flask, Gunicorn  
+- **Backend**: Flask,  
 - **AI Model**: Google Gemini AI  
 - **APIs**: Google Generative AI API  
 - **Speech Processing**: SpeechRecognition, gTTS  
