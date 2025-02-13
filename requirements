@@ -1,0 +1,9 @@
+Flask
+streamlit
+requests
+speechrecognition
+gtts
+google-generativeai
+streamlit-lottie
+python-dotenv
+tempfile
